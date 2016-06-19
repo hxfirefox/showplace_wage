@@ -16,4 +16,8 @@ public class Servant {
     public int getBonus(int month) {
         return bonus.getBonus(month);
     }
+
+    public String getServantName() {
+        return this.name;
+    }
 }

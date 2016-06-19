@@ -1,4 +1,3 @@
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -10,7 +9,7 @@ public class MasterTest {
 
     @Before
     public void setUp() throws Exception {
-        baoyu = new Master((x, y) -> {
+        baoyu = new Master("Jia Baoyu", (x, y) -> {
             return 8 * (x + y);
         });
 
