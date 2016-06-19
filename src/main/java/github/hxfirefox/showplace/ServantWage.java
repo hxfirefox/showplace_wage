@@ -1,3 +1,8 @@
+package github.hxfirefox.showplace;
+
+import github.hxfirefox.master.Master;
+import github.hxfirefox.servant.Servant;
+
 import java.util.HashMap;
 import java.util.Map;
 

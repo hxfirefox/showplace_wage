@@ -1,3 +1,8 @@
+package github.hxfirefox.servant;
+
+import github.hxfirefox.servant.Bonus;
+import github.hxfirefox.servant.Salary;
+
 public class Servant {
     private String name;
     private Salary salary;

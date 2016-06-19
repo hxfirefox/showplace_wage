@@ -1,3 +1,5 @@
+package github.hxfirefox.master;
+
 public class Master {
     private final Wage wage;
     private String name;

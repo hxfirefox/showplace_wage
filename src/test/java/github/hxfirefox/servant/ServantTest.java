@@ -1,3 +1,6 @@
+package github.hxfirefox.servant;
+
+import github.hxfirefox.servant.Servant;
 import org.junit.Before;
 import org.junit.Test;
 

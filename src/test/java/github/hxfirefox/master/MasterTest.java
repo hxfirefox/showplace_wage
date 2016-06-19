@@ -1,3 +1,6 @@
+package github.hxfirefox.master;
+
+import github.hxfirefox.master.Master;
 import org.junit.Before;
 import org.junit.Test;
 
